@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - [The Shopping WebApp using NodeJs](https://shoping-app-nodejs.herokuapp.com/)
 - [The Burger Builder WebApp using ReactJs](https://myreactburgerbuilderapp.web.app/)
 - [The PhotoWall Website using ReactJs](https://photowall-reactjs-app.web.app/)
-- [The Share Place WebApp using MERN](https://the-share-place-app.web.app/)
-- [The Blog Website using MEAN](http://the-mean-angular-node-app.s3-website.ap-south-1.amazonaws.com/)
+- [The Share Place WebApp using MERN Full Stack](https://the-share-place-app.web.app/)
+- [The Blog Website using MEAN Full Stack](http://the-mean-angular-node-app.s3-website.ap-south-1.amazonaws.com/)
 - [Shopping App for Mobile using ReactNative](https://expo.io/@adityakshettri/the-shopping-app)
 <!-- BLOG-POST-LIST:END -->
