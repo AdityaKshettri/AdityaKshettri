@@ -24,3 +24,14 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning to integrate Machine Learning and Data Analytics concepts with my area of interest in Full Stack Web Development to come up with an application for safety of the people, so that I can be a small part in contributing to the society in our fight against COVID-19. 
 
+### My most recent projects are : 🧾
+
+<!-- BLOG-POST-LIST:START -->
+- [Smart Safety Jacket with Safe Route Assistance](https://smartsafetyjacket.firebaseapp.com/)
+- [VAAK : Voice Augmented Assisstive Kit](https://vaak-3ac84.firebaseapp.com/)
+- [Recipe Book WebApp](https://adityarecipebook.firebaseapp.com/recipes)
+- [Shopping WebApp](https://shoping-app-nodejs.herokuapp.com/)
+- [The Burger Builder WebApp](https://myreactburgerbuilderapp.web.app/)
+- [Share Place WebApp](https://the-share-place-app.web.app/)
+- [Shopping App for Mobile](https://expo.io/@adityakshettri/the-shopping-app)
+<!-- BLOG-POST-LIST:END -->
