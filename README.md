@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋  I'm [Aditya Kshettri](https://adityakshettri.github.io/)!
+
+I have done B.Tech from Vellore Institute of Technology, Chennai Branch in the Electronics and Computer Science domain.
+
+Currently, I am working as a Software Engineer in [Societe Generale Global Solutions Center, Bangalore](https://www.societegenerale.asia/en/worldwide-details/office/bangalore-global-solution-centre-1/)
