@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am currently working as a Software Engineer in [Societe Generale Global Solutions Center, Bangalore](https://www.societegenerale.asia/en/worldwide-details/office/bangalore-global-solution-centre-1/).
 
-My domain of interest lies in the field of Full Stack Web Development, specialized in Backend Development using Java Spring Boot and Frontend Development using JavaScript (mainly React.js/Angular.js)
+- 😍 My domain of interest lies in the field of Full Stack Web Development, specialized in Backend Development using Java Spring Boot and Frontend Development using JavaScript (mainly React.js/Angular.js)
+
+- 🌱 I’m currently learning to integrate Machine Learning and Data Analytics concepts with my area of interest in Full Stack Web Development to come up with an application for safety of the people, so that I can be a small part in contributing to the society in our fight against COVID-19. 
+
