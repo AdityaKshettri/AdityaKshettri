@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 ### My most exclusive projects are : 🧾
 
-<!-- BLOG-POST-LIST:START -->
 - [Smart Safety Jacket with Safe Route Assistance](https://smartsafetyjacket.firebaseapp.com/)
 - [VAAK : Voice Augmented Assisstive Kit](https://vaak-3ac84.firebaseapp.com/)
 - [The Recipe Book WebApp using AngularJs](https://adityarecipebook.firebaseapp.com/recipes)
@@ -37,11 +36,10 @@ Here are some ideas to get you started:
 - [The Share Place WebApp using MERN Full Stack](https://the-share-place-app.web.app/)
 - [The Blog Website using MEAN Full Stack](http://the-mean-angular-node-app.s3-website.ap-south-1.amazonaws.com/)
 - [Shopping App for Mobile using ReactNative](https://expo.io/@adityakshettri/the-shopping-app)
-<!-- BLOG-POST-LIST:END -->
 
 ### How to contact me : 📫
 
+[<img src="https://1000logos.net/wp-content/uploads/2016/11/Facebook-logo.jpg" width="50px">](https://www.facebook.com/AdityaKshettri/)
 [<img src="https://peopleplus.co.uk/wp-content/uploads/2020/03/linkedin-icon.png" width="40px">](https://www.linkedin.com/in/adityakshettri/)
-[<img src="https://1000logos.net/wp-content/uploads/2016/11/Facebook-logo.jpg" width="60px">](https://www.facebook.com/AdityaKshettri/)
-[<img src="https://image.freepik.com/free-vector/instagram-icon_1057-2227.jpg" width="50px">](https://www.instagram.com/adityakshettri/)
-[<img src="https://utilitypeopleuk.com/wp-content/uploads/2017/06/twitter-icon-circle-blue-logo-preview.png" width="50px">](https://twitter.com/KshettriAditya)
+[<img src="https://image.freepik.com/free-vector/instagram-icon_1057-2227.jpg" width="60px">](https://www.instagram.com/adityakshettri/)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuQuiw-SPkkSlqC-NTt9XdYopwXZ-08Nhgg&usqp=CAU" width="50px">](https://twitter.com/KshettriAditya)
