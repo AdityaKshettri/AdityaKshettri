@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋  I'm [Aditya Kshettri](https://adityakshettri.github.io/)!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm [Aditya Kshettri](https://adityakshettri.github.io/)!
 
 I have done B.Tech from Vellore Institute of Technology, Chennai Branch in the Electronics and Computer Science domain.
 
