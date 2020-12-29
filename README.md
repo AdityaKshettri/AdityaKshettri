@@ -24,14 +24,17 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning to integrate Machine Learning and Data Analytics concepts with my area of interest in Full Stack Web Development to come up with an application for safety of the people, so that I can be a small part in contributing to the society in our fight against COVID-19. 
 
-### My most recent projects are : 🧾
+### My most exclusive projects are : 🧾
 
 <!-- BLOG-POST-LIST:START -->
 - [Smart Safety Jacket with Safe Route Assistance](https://smartsafetyjacket.firebaseapp.com/)
 - [VAAK : Voice Augmented Assisstive Kit](https://vaak-3ac84.firebaseapp.com/)
-- [Recipe Book WebApp using AngularJs](https://adityarecipebook.firebaseapp.com/recipes)
-- [Shopping WebApp using NodeJs](https://shoping-app-nodejs.herokuapp.com/)
+- [The Recipe Book WebApp using AngularJs](https://adityarecipebook.firebaseapp.com/recipes)
+- [The Client Panel using AngularJs](https://clientpanelangularjs.web.app/)
+- [The Shopping WebApp using NodeJs](https://shoping-app-nodejs.herokuapp.com/)
 - [The Burger Builder WebApp using ReactJs](https://myreactburgerbuilderapp.web.app/)
-- [Share Place WebApp using MERN](https://the-share-place-app.web.app/)
+- [The PhotoWall Website using ReactJs](https://photowall-reactjs-app.web.app/)
+- [The Share Place WebApp using MERN](https://the-share-place-app.web.app/)
+- [The Blog Website using MEAN](http://the-mean-angular-node-app.s3-website.ap-south-1.amazonaws.com/)
 - [Shopping App for Mobile using ReactNative](https://expo.io/@adityakshettri/the-shopping-app)
 <!-- BLOG-POST-LIST:END -->
