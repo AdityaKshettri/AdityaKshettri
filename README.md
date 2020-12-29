@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there! I'm [Aditya Kshettri](https://adityakshettri.github.io/).
 
-I have done B.Tech from Vellore Institute of Technology, Chennai Branch in the Electronics and Computer Science domain.
+I have got my Undergraduation degree from [Vellore Institute of Technology](https://vit.ac.in/), Chennai branch in the domain of Electronics and Computer Engineering.
 
 Currently, I am working as a Software Engineer in [Societe Generale Global Solutions Center, Bangalore](https://www.societegenerale.asia/en/worldwide-details/office/bangalore-global-solution-centre-1/)
