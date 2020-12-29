@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 
 ### How to contact me : 📫
 
-[<img src="https://1000logos.net/wp-content/uploads/2016/11/Facebook-logo.jpg" width="30px">](https://www.facebook.com/AdityaKshettri/)
+[<img src="https://1000logos.net/wp-content/uploads/2016/11/Facebook-logo.jpg" width="50px">](https://www.facebook.com/AdityaKshettri/)
