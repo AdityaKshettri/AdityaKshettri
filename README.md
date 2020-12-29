@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### How to contact me : 📫
 
-[<img src="https://1000logos.net/wp-content/uploads/2016/11/Facebook-logo.jpg" width="50px">](https://www.facebook.com/AdityaKshettri/)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb9sE_pO5TFEnpNip5F5OGl_K9VfDxn6jOOw&usqp=CAU" width="50px">](https://www.facebook.com/AdityaKshettri/)
 [<img src="https://peopleplus.co.uk/wp-content/uploads/2020/03/linkedin-icon.png" width="40px">](https://www.linkedin.com/in/adityakshettri/)
 [<img src="https://image.freepik.com/free-vector/instagram-icon_1057-2227.jpg" width="60px">](https://www.instagram.com/adityakshettri/)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuQuiw-SPkkSlqC-NTt9XdYopwXZ-08Nhgg&usqp=CAU" width="50px">](https://twitter.com/KshettriAditya)
