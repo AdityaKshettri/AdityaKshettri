@@ -41,5 +41,6 @@ Here are some ideas to get you started:
 
 ### How to contact me : 📫
 
+[<img src="https://peopleplus.co.uk/wp-content/uploads/2020/03/linkedin-icon.png" width="50px">](https://www.linkedin.com/in/adityakshettri/)
 [<img src="https://1000logos.net/wp-content/uploads/2016/11/Facebook-logo.jpg" width="50px">](https://www.facebook.com/AdityaKshettri/)
 [<img src="https://image.freepik.com/free-vector/instagram-icon_1057-2227.jpg" width="50px">](https://www.instagram.com/adityakshettri/)
