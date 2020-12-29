@@ -41,4 +41,6 @@ Here are some ideas to get you started:
 
 ### How to contact me : 📫
 
+<i class="fab fa-facebook">Facebook</i>
+
 [![Facebook](https://fontawesome.com/icons/facebook?style=brands)](https://www.facebook.com/AdityaKshettri/)
