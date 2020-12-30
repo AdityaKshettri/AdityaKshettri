@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi there! I'm [Aditya Kshettri](https://adityakshettri.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
+- 🔭 I am currently working as a Software Engineer in [Societe Generale Global Solutions Center, Bangalore](https://www.societegenerale.asia/en/worldwide-details/office/bangalore-global-solution-centre-1/).
 
 - 🎓 I have got my Undergraduation degree from [Vellore Institute of Technology, Chennai branch](https://chennai.vit.ac.in/) in the domain of Electronics and Computer Engineering.
-
-- 🔭 I am currently working as a Software Engineer in [Societe Generale Global Solutions Center, Bangalore](https://www.societegenerale.asia/en/worldwide-details/office/bangalore-global-solution-centre-1/).
 
 - 😍 My domain of interest lies in the field of Full Stack Web Development, specialized in Backend Development using Java Spring Boot and Frontend Development using JavaScript (mainly React.js/Angular.js)
 
