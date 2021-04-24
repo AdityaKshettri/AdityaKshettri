@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there! I'm [Aditya Kshettri](https://adityakshettri.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hi there! I'm [Aditya Kshettri](https://adityakshettri.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
 - 🔭 I am currently working as a Software Engineer in [Societe Generale Global Solutions Center, Bangalore](https://www.societegenerale.asia/en/).
 
@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - 😍 My domain of interest lies in the field of Full Stack Web Development, specialized in Backend Development using Java Spring Boot and Frontend Development using JavaScript (mainly React.js/Angular.js)
 
 - 🌱 I’m currently learning to integrate Machine Learning and Data Analytics concepts with my area of interest in Full Stack Web Development to come up with an application for safety of the people, so that I can be a small part in contributing to the society in our fight against COVID-19. 
+
+- You can visit my website [here](https://adityakshettri.github.io/). It is hosted using github.io pages.
 
 ### My most exclusive projects are : 🧾
 
