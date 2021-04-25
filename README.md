@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 - You can visit my website [here](https://adityakshettri.github.io/). It is hosted using github.io pages.
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=AdityaKshettri&show_icons=true&hide_rank=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515">
+
 ### My most exclusive projects are : 🧾
 
 - [Smart Safety Jacket with Safe Route Assistance](https://smartsafetyjacket.firebaseapp.com/)
