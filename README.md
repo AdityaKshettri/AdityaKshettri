@@ -44,3 +44,4 @@ Here are some ideas to get you started:
 [<img src="https://peopleplus.co.uk/wp-content/uploads/2020/03/linkedin-icon.png" width="30px">](https://www.linkedin.com/in/adityakshettri/)
 [<img src="https://user-images.githubusercontent.com/36606431/115982693-a83cf780-a5ba-11eb-9b9e-3633f9366761.png" width="30px">](https://www.instagram.com/adityakshettri/)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuQuiw-SPkkSlqC-NTt9XdYopwXZ-08Nhgg&usqp=CAU" width="30px">](https://twitter.com/KshettriAditya)
+[<img src="https://user-images.githubusercontent.com/36606431/115982752-108bd900-a5bb-11eb-95db-7ffcd5ac77ca.png" width="30px">](https://www.youtube.com/channel/UCa9wWIqNk0vvmSIgSb4mcUg)
