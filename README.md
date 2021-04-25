@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb9sE_pO5TFEnpNip5F5OGl_K9VfDxn6jOOw&usqp=CAU" width="30px">](https://www.facebook.com/AdityaKshettri/)
 [<img src="https://peopleplus.co.uk/wp-content/uploads/2020/03/linkedin-icon.png" width="30px">](https://www.linkedin.com/in/adityakshettri/)
-[<img src="![image](https://user-images.githubusercontent.com/36606431/115982670-83488480-a5ba-11eb-8a2f-fa592506955e.png)" width="30px">](https://www.instagram.com/adityakshettri/)
+[<img src="https://user-images.githubusercontent.com/36606431/115982693-a83cf780-a5ba-11eb-9b9e-3633f9366761.png" width="30px">](https://www.instagram.com/adityakshettri/)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuQuiw-SPkkSlqC-NTt9XdYopwXZ-08Nhgg&usqp=CAU" width="30px">](https://twitter.com/KshettriAditya)
